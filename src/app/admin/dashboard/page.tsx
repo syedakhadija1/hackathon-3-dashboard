@@ -2,7 +2,6 @@
 
 import React, { useEffect, useState } from "react";
 import { client } from "@/sanity/lib/client";
-import Image from "next/image";
 import ProtectedRoute from "@/app/component/protected/ProtectedRoute";
 import { FaBars, FaTimes } from "react-icons/fa";
 
